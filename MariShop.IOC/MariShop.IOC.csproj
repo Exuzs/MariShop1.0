@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MariShop.BLL\MariShop.BLL.csproj" />
+    <ProjectReference Include="..\MariShop.DAL\MariShop.DAL.csproj" />
+    <ProjectReference Include="..\MariShop.Utility\MariShop.Utility.csproj" />
+  </ItemGroup>
+
+</Project>

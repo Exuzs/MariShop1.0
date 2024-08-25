@@ -1,0 +1,6 @@
+@MariShop.API_HostAddress = http://localhost:5073
+
+GET {{MariShop.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

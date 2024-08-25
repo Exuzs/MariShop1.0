@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\MariShop1.1\APIMariShop1.1\MariShop.Utility\bin\Debug\net8.0\MariShop.Utility.deps.json
+C:\Users\User\Desktop\MariShop1.1\APIMariShop1.1\MariShop.Utility\bin\Debug\net8.0\MariShop.Utility.dll
+C:\Users\User\Desktop\MariShop1.1\APIMariShop1.1\MariShop.Utility\bin\Debug\net8.0\MariShop.Utility.pdb
+C:\Users\User\Desktop\MariShop1.1\APIMariShop1.1\MariShop.Utility\obj\Debug\net8.0\MariShop.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MariShop1.1\APIMariShop1.1\MariShop.Utility\obj\Debug\net8.0\MariShop.Utility.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MariShop1.1\APIMariShop1.1\MariShop.Utility\obj\Debug\net8.0\MariShop.Utility.AssemblyInfo.cs
+C:\Users\User\Desktop\MariShop1.1\APIMariShop1.1\MariShop.Utility\obj\Debug\net8.0\MariShop.Utility.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MariShop1.1\APIMariShop1.1\MariShop.Utility\obj\Debug\net8.0\MariShop.Utility.dll
+C:\Users\User\Desktop\MariShop1.1\APIMariShop1.1\MariShop.Utility\obj\Debug\net8.0\refint\MariShop.Utility.dll
+C:\Users\User\Desktop\MariShop1.1\APIMariShop1.1\MariShop.Utility\obj\Debug\net8.0\MariShop.Utility.pdb
+C:\Users\User\Desktop\MariShop1.1\APIMariShop1.1\MariShop.Utility\obj\Debug\net8.0\ref\MariShop.Utility.dll
+C:\Users\User\Desktop\MariShop1.1\APIMariShop1.1\MariShop.Utility\bin\Debug\net8.0\MariShop.DTO.dll
+C:\Users\User\Desktop\MariShop1.1\APIMariShop1.1\MariShop.Utility\bin\Debug\net8.0\MariShop.Model.dll
+C:\Users\User\Desktop\MariShop1.1\APIMariShop1.1\MariShop.Utility\bin\Debug\net8.0\MariShop.DTO.pdb
+C:\Users\User\Desktop\MariShop1.1\APIMariShop1.1\MariShop.Utility\bin\Debug\net8.0\MariShop.Model.pdb
+C:\Users\User\Desktop\MariShop1.1\APIMariShop1.1\MariShop.Utility\obj\Debug\net8.0\MariShop.Utility.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MariShop1.1\APIMariShop1.1\MariShop.Utility\obj\Debug\net8.0\MariShop.Utility.csproj.CopyComplete
