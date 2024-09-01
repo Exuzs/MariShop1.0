@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\MariShop1.1\\APIMariShop1.1\\MariShop.DTO\\MariShop.DTO.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\MariShop1.1\\MariShop.DTO\\MariShop.DTO.csproj",
       "projectName": "MariShop.DTO",
-      "projectPath": "C:\\Users\\User\\Desktop\\MariShop1.1\\APIMariShop1.1\\MariShop.DTO\\MariShop.DTO.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\MariShop1.1\\MariShop.DTO\\MariShop.DTO.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\MariShop1.1\\APIMariShop1.1\\MariShop.DTO\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\MariShop1.1\\MariShop.DTO\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

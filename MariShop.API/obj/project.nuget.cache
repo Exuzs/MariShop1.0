@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zktQdj99ewIAnhGXp5wftrqy68NKLL9A9E7qXk3eNMHu4BcO/ZnMDdZLd3rvGx6eqfw2IPiReZ4Kz1i9lQqC7g==",
+  "dgSpecHash": "BANt447IW+GM0PmRX+znQ5gvB8+fB+fR9frLv78ABsB9Xz0PtZ0okYUdvNd+Wjnv5Apndcjf+ALtkFX3SQVYVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\MariShop1.1\\APIMariShop1.1\\MariShop.API\\MariShop.API.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\MariShop1.1\\MariShop.API\\MariShop.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",

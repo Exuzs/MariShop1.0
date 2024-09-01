@@ -2808,11 +2808,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\MariShop1.1\\APIMariShop1.1\\MariShop.API\\MariShop.API.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\MariShop1.1\\MariShop.API\\MariShop.API.csproj",
       "projectName": "MariShop.API",
-      "projectPath": "C:\\Users\\User\\Desktop\\MariShop1.1\\APIMariShop1.1\\MariShop.API\\MariShop.API.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\MariShop1.1\\MariShop.API\\MariShop.API.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\MariShop1.1\\APIMariShop1.1\\MariShop.API\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\MariShop1.1\\MariShop.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2834,14 +2834,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\MariShop1.1\\APIMariShop1.1\\MariShop.BLL\\MariShop.BLL.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\MariShop1.1\\APIMariShop1.1\\MariShop.BLL\\MariShop.BLL.csproj"
+            "C:\\Users\\User\\Desktop\\MariShop1.1\\MariShop.BLL\\MariShop.BLL.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\MariShop1.1\\MariShop.BLL\\MariShop.BLL.csproj"
             },
-            "C:\\Users\\User\\Desktop\\MariShop1.1\\APIMariShop1.1\\MariShop.DTO\\MariShop.DTO.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\MariShop1.1\\APIMariShop1.1\\MariShop.DTO\\MariShop.DTO.csproj"
+            "C:\\Users\\User\\Desktop\\MariShop1.1\\MariShop.DTO\\MariShop.DTO.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\MariShop1.1\\MariShop.DTO\\MariShop.DTO.csproj"
             },
-            "C:\\Users\\User\\Desktop\\MariShop1.1\\APIMariShop1.1\\MariShop.IOC\\MariShop.IOC.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\MariShop1.1\\APIMariShop1.1\\MariShop.IOC\\MariShop.IOC.csproj"
+            "C:\\Users\\User\\Desktop\\MariShop1.1\\MariShop.IOC\\MariShop.IOC.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\MariShop1.1\\MariShop.IOC\\MariShop.IOC.csproj"
             }
           }
         }
