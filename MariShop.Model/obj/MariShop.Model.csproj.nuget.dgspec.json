@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\MariShop1.1\\APIMariShop1.1\\MariShop.Model\\MariShop.Model.csproj": {}
+    "C:\\Users\\User\\Desktop\\MariShop1.1\\MariShop.Model\\MariShop.Model.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\MariShop1.1\\APIMariShop1.1\\MariShop.Model\\MariShop.Model.csproj": {
+    "C:\\Users\\User\\Desktop\\MariShop1.1\\MariShop.Model\\MariShop.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\MariShop1.1\\APIMariShop1.1\\MariShop.Model\\MariShop.Model.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\MariShop1.1\\MariShop.Model\\MariShop.Model.csproj",
         "projectName": "MariShop.Model",
-        "projectPath": "C:\\Users\\User\\Desktop\\MariShop1.1\\APIMariShop1.1\\MariShop.Model\\MariShop.Model.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\MariShop1.1\\MariShop.Model\\MariShop.Model.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\MariShop1.1\\APIMariShop1.1\\MariShop.Model\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\MariShop1.1\\MariShop.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

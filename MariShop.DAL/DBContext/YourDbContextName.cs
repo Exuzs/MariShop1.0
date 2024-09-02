@@ -325,6 +325,31 @@ public partial class YourDbContextName : DbContext
                 .HasConstraintName("variantesproducto_ibfk_1");
         });
 
+        modelBuilder.Entity<UsuarioRoles>(entity =>
+        {
+            entity.HasKey(e => new { e.UserId, e.RolId }).HasName("PRIMARY");
+
+            entity.ToTable("usuariosroles"); 
+
+            entity.HasIndex(e => e.RolId, "RolID");
+
+            entity.Property(e => e.UserId).HasColumnName("UserID");
+            entity.Property(e => e.RolId).HasColumnName("RolID");
+
+            entity.HasOne(d => d.Usuario)
+                .WithMany(p => p.UsuarioRoles)
+                .HasForeignKey(d => d.UserId)
+                .OnDelete(DeleteBehavior.Cascade)
+                .HasConstraintName("usuariosroles_ibfk_1");
+
+            entity.HasOne(d => d.Rol)
+                .WithMany(p => p.UsuarioRoles)
+                .HasForeignKey(d => d.RolId)
+                .OnDelete(DeleteBehavior.Cascade)
+                .HasConstraintName("usuariosroles_ibfk_2");
+        });
+
+
         OnModelCreatingPartial(modelBuilder);
     }
 

@@ -34,4 +34,6 @@ public partial class Usuarios
     public virtual ICollection<Pedidos> Pedidos { get; set; } = new List<Pedidos>();
 
     public virtual ICollection<Roles> Rols { get; set; } = new List<Roles>();
+
+    public virtual ICollection<UsuarioRoles> UsuarioRoles { get; set; }
 }
