@@ -44,9 +44,5 @@ namespace MariShop.DAL.Repositories
         {
             throw new NotImplementedException();
         }
-<<<<<<< HEAD
-=======
-        
->>>>>>> 564f61bf909bd4b8cc5c5c53668784532fbd1e56
     }
 }
