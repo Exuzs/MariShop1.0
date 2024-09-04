@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MariShop.DTO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae94bedff78bc02545a23b3044da8605556cf513")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88c9440e7af4c8ff503ef551c05d9db14146e041")]
+>>>>>>> main
 [assembly: System.Reflection.AssemblyProductAttribute("MariShop.DTO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MariShop.DTO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
