@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MariShop.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1985a46e6924407ea479148cdd33acc5f6a65355")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88c9440e7af4c8ff503ef551c05d9db14146e041")]
 [assembly: System.Reflection.AssemblyProductAttribute("MariShop.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MariShop.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
