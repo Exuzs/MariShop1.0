@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MariShop.Model")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88c9440e7af4c8ff503ef551c05d9db14146e041")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+196947f78c777cde3417899628299de9ff05124e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MariShop.Model")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MariShop.Model")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
