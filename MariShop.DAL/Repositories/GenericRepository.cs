@@ -11,7 +11,7 @@ using System.Linq.Expressions;
 
 namespace MariShop.DAL.Repositories
 {
-    public class GenericRepository<TModel> :IGenericRepository<TModel> where TModel : class
+    public class GenericRepository<TModel> : IGenericRepository<TModel> where TModel : class
     {
         private readonly YourDbContextName _dbContextName;
 
@@ -20,29 +20,72 @@ namespace MariShop.DAL.Repositories
             _dbContextName = dbContextName;
         }
 
-        public Task<TModel> Obtener(Expression<Func<TModel, bool>> filtro)
+        public async Task<TModel> Obtener(Expression<Func<TModel, bool>> filtro)
         {
-            throw new NotImplementedException();
+            try
+            {
+                TModel model = await _dbContextName.Set<TModel>().FirstOrDefaultAsync(filtro);
+                return model;
+            }
+            catch
+            {
+                throw;
+            }
         }
 
-        public Task<TModel> Crear(TModel modelo)
+        public async Task<TModel> Crear(TModel modelo)
         {
-            throw new NotImplementedException();
+            try
+            {
+                _dbContextName.Set<TModel>().Add(modelo);
+                await _dbContextName.SaveChangesAsync();
+                return modelo;
+            }
+            catch (Exception)
+            {
+                throw;
+            }
         }
 
-        public Task<bool> Editar(TModel modelo)
+        public async Task<bool> Editar(TModel modelo)
         {
-            throw new NotImplementedException();
+            try
+            {
+                _dbContextName.Set<TModel>().Update(modelo);
+                await _dbContextName.SaveChangesAsync();
+                return true;
+            }
+            catch (Exception)
+            {
+                throw;
+            }
         }
 
-        public Task<bool> Eliminar(TModel modelo)
+        public async Task<bool> Eliminar(TModel modelo)
         {
-            throw new NotImplementedException();
+            try
+            {
+                _dbContextName.Set<TModel>().Remove(modelo);
+                await _dbContextName.SaveChangesAsync();
+                return true;
+            }
+            catch
+            {
+                throw;
+            }
         }
 
-        public Task<IQueryable<TModel>> Consultar(Expression<Func<TModel, bool>> filtro = null)
+        public async Task<IQueryable<TModel>> Consultar(Expression<Func<TModel, bool>> filtro = null)
         {
-            throw new NotImplementedException();
+            try
+            {
+                IQueryable<TModel> query = filtro == null ? _dbContextName.Set<TModel>() : _dbContextName.Set<TModel>().Where(filtro);
+                return query;
+            }
+            catch
+            {
+                throw;
+            }
         }
     }
 }
